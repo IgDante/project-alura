@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Project Alura </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Evento exclusivo e gratuito, promovido pela Alura para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="./assets/Home.png">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="aluratub" src=".github/project.png" width="100%">
+  <img alt="aluratub" src="./assets/Home.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript e JSON
 - [Node e NPM](https://nodejs.org/)
+- [React](https://reactjs.org/)
 
 ## 💻 Projeto
 
