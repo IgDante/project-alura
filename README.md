@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Alura para ensino de tecnologias WEB
 <br>
 
 <p align="center">
-  <img alt="aluratub" src="./assets/Home.png" width="100%">
+  <img alt="aluratub" src="./assets/Home.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
